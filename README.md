@@ -77,11 +77,17 @@ Covers common issues like:
 ### **Folder Structure**
 
 📁 Content/
+
 ├── github_api_colab.ipynb ← Colab notebook with all test logic
+
 ├── api_reference.md ← Endpoints used and their purpose
+
 ├── troubleshooting.md← Common issues and handling
+
 ├── data_cleaning.md ← How API responses were cleaned and filtered
+
 ├── download_utilities.md ←  File and repo download functions
 
 📁 Postman_Collection/
+
 └── (Empty – Colab was used instead of Postman)
